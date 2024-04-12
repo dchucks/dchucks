@@ -10,21 +10,7 @@ I have been one of the earfliest of Hindi bloggers from India and dablle in cont
 I presently publish the newsletters [Podcast Round-up](http://parikrama.substack.com) (in Hindi) and [The Agile Chronicles](http://agilechronicles.substack.com). [Click here](http://nullpointer.debashish.com/about/about-the-author) if you are interested to know more about me.
 
 ## Ask me anything
-📣 Happy to share that I am now [on @Topmate](https://topmate.io/debashishc), where I propose to offer mentorship, and share whatever I have learnt in my life so far. In turn, I gain to learn from others. Let's help each other grow! 💪🌟 Please go ahead, and [block a suitable time-slot](https://topmate.io/debashishc).
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dchucks&show_icons=true&locale=en&layout=compact" alt="dchucks" />
-
-## Languages and Tools
-<p align="left"> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;</p>
-
-## What's keeping me busy? 
-- 🌱 Preparing for: [AWS Certifified Solutions Architect Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
-- 🔭 Working on: A Udemy Mock Exam for [PSPO-I certification](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
-<!--
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
--->
+📣 Happy to share that I am now at <img height="30" src="https://github.com/dchucks/dchucks/blob/81d4a8fad2c4273fc76f6455ea8da7ce4d77e4cb/icons/topmate.png?raw=true">&nbsp; [Topmate](https://topmate.io/debashishc), where I propose to offer mentorship, and share whatever I have learnt in my life so far. In turn, I gain to learn from others. Let's help each other grow! 💪🌟 Please go ahead, and [block a suitable time-slot](https://topmate.io/debashishc).   https://github.com/dchucks/dchucks/blob/81d4a8fad2c4273fc76f6455ea8da7ce4d77e4cb/icons/topmate.png
 
 ## Me elsewhere 📬
 <p align='center'>
@@ -36,9 +22,22 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
   <a href="https://www.youtube.com/c/@podbharati" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@podbharati" height="30" width="40" /></a>
 </p>
 
+## Languages and Tools
+<p align="left"> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dchucks&show_icons=true&locale=en&layout=compact" alt="dchucks" /></p>
+
+## What's keeping me busy? 
+- 🌱 Preparing for: [AWS Certifified Solutions Architect Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+- 🔭 Working on: A Udemy Mock Exam for [PSPO-I certification](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
+<!--
+- 🌍 Languages: **[programming languages and human languages you speak]**
+- 📫 How to reach me: **[your email address or other contact information]**
+- ⚡ Fun fact: **[a fun fact about yourself]**
+-->
+
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ## Support
-<p align="left"><a href="https://ko-fi.com/debashish"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="debashish" /></a>&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=dchucks&label=Profile%20views&color=0e75b6&style=flat" alt="dchucks" /> </p>
+<p align="left"><a href="https://ko-fi.com/debashish"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="debashish" /></a><br/><br/><img src="https://komarev.com/ghpvc/?username=dchucks&label=Profile%20views&color=0e75b6&style=flat" alt="dchucks" /> </p>
