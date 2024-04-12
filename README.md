@@ -17,10 +17,10 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
   <a href="https://dev.to/dchucks"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/dev.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/debashishc/"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/agilechronicles" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agilechronicles" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@dchucks" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dchucks" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/@podbharati" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@podbharati" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://topmate.io/debashishc" target="blank"><img height="30" alt="Debashish at Topmate" height="30" width="40" src="https://github.com/dchucks/dchucks/blob/81d4a8fad2c4273fc76f6455ea8da7ce4d77e4cb/icons/topmate.png?raw=true"></a>
+  <a href="https://instagram.com/agilechronicles" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agilechronicles" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@dchucks" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dchucks" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/c/@podbharati" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@podbharati" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://topmate.io/debashishc" target="blank"><img height="30" alt="Debashish at Topmate" src="https://github.com/dchucks/dchucks/blob/81d4a8fad2c4273fc76f6455ea8da7ce4d77e4cb/icons/topmate.png?raw=true"></a>
 </p>
 
 ## Languages and Tools
