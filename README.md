@@ -1,6 +1,6 @@
 # Hi there, I'm Debashish! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://github.com/dchucks/dchucks/blob/995ee9393ce05198191a18187fb64d2402075d92/icons/banner-1.png)
 
 ## About Me 🚀
 
