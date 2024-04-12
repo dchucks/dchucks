@@ -30,10 +30,11 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 ## What's keeping me busy? 
 - 🌱 Preparing for: [AWS Certifified Solutions Architect Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 - 🔭 Working on: A Udemy Mock Exam for [PSPO-I certification](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
+- ⚡ Fun fact: I do voice-overs as a hobby. If you have a freelance gig, I am on Fiverr.
 <!--
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+
 -->
 
 ## My latest posts
@@ -41,4 +42,5 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 <!-- BLOG-POST-LIST:END -->
 
 ## Support
-<p align="left"><a href="https://ko-fi.com/debashish"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="debashish" /></a><br/><br/><img src="https://komarev.com/ghpvc/?username=dchucks&label=Profile%20views&color=0e75b6&style=flat" alt="dchucks" /> </p>
+<p align="left"><a href="https://ko-fi.com/debashish"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" alt="debashish" /></a><br/><br/>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=dchucks&label=Profile%20views&color=0e75b6&style=flat" alt="dchucks" /> </p>
