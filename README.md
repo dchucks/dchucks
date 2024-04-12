@@ -10,10 +10,23 @@ I have been one of the earfliest of Hindi bloggers from India and dablle in cont
 
 I presently publish the newsletters [Podcast Round-up](http://parikrama.substack.com) (in Hindi) and [The Agile Chronicles](http://agilechronicles.substack.com). [Click here](http://nullpointer.debashish.com/about/about-the-author) if you are interested to know more about me.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dchucks&label=Profile%20views&color=0e75b6&style=flat" alt="dchucks" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://instagram.com/agilechronicles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agilechronicles" height="30" width="40" /></a>
+<a href="https://medium.com/@dchucks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dchucks" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@podbharati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@podbharati" height="30" width="40" /></a>
+</p>
+
 <p align='center'>
   <a href="https://dev.to/dchucks"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/dev.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/debashishc/"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/linkedin.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/debashishc/"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/linkedin.png?raw=true"></a>>&nbsp;&nbsp;
+  <a href="https://instagram.com/agilechronicles" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agilechronicles" height="30" width="40" /></a>>&nbsp;&nbsp;
+  <a href="https://medium.com/@dchucks" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dchucks" height="30" width="40" /></a>>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/c/@podbharati" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@podbharati" height="30" width="40" /></a>
 </p>
 
 - 🌱 Currently preparing for: [AWS Certifified Solutions Architect Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
@@ -27,5 +40,13 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 ## Get in Touch 📬
 
 - [Personal Website](https://www.debashish.com)
-- [LinkedIn]([your_linkedin_profile_link](https://www.linkedin.com/in/debashishc/))
+- [Linked In](https://www.linkedin.com/in/debashishc/)
+
+## Support
+<p><a href="https://ko-fi.com/debashish"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="debashish" /></a></p><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dchucks&show_icons=true&locale=en&layout=compact" alt="dchucks" /></p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
