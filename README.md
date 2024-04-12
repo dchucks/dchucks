@@ -12,6 +12,7 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dchucks&show_icons=true&locale=en&layout=compact" alt="dchucks" />
 
 ## Languages and Tools
+![[Hugo](https://gohugo.io/)](https://api.iconify.design/logos-hugo.svg)
 <p align="left"> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;</p>
 
 ## What's keeping me busy? 
