@@ -10,7 +10,7 @@ I have been one of the earfliest of Hindi bloggers from India and dablle in cont
 I presently publish the newsletters [Podcast Round-up](http://parikrama.substack.com) (in Hindi) and [The Agile Chronicles](http://agilechronicles.substack.com). [Click here](http://nullpointer.debashish.com/about/about-the-author) if you are interested to know more about me.
 
 ## Ask me anything
-📣 Happy to share that I am now at [Topmate](https://topmate.io/debashishc), where I propose to offer mentorship, and share whatever I have learnt in my life so far. In turn, I gain to learn from others. Let's help each other grow! 💪🌟 Please go ahead, and [block a suitable time-slot](https://topmate.io/debashishc).   https://github.com/dchucks/dchucks/blob/81d4a8fad2c4273fc76f6455ea8da7ce4d77e4cb/icons/topmate.png
+📣 Happy to share that I am now at [Topmate](https://topmate.io/debashishc), where I propose to offer mentorship, and share whatever I have learnt in my life so far. In turn, I gain to learn from others. Let's help each other grow! 💪🌟 Please go ahead, and [block a suitable time-slot](https://topmate.io/debashishc).   
 
 ## Me elsewhere 📬
 <p align='center'>
