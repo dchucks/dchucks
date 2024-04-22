@@ -39,11 +39,11 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [How Agile practitioners can make GenAI their powerful ally?](https://medium.com/@dchucks/how-agile-practitioners-can-make-genai-their-powerful-ally-c7a58154df28?source=rss-85fec222135e------2)
 - [Master these 4 Agile Backlog Prioritization and Ordering techniques for Value Delivery](https://medium.com/@dchucks/master-these-4-agile-backlog-prioritization-and-ordering-techniques-for-value-delivery-a4885828325b?source=rss-85fec222135e------2)
 - [To Burnup or Burndown : That’s the question!](https://medium.com/@dchucks/to-burnup-or-burndown-thats-the-question-f768bd082d25?source=rss-85fec222135e------2)
 - [8 Lessons from the Kobayashi Maru: Leadership Strategies for No-Win Scenarios](https://medium.com/@dchucks/8-lessons-from-the-kobayashi-maru-leadership-strategies-for-no-win-scenarios-478f370d7ee9?source=rss-85fec222135e------2)
 - [Is Your Agile Stuck in a Sprint Rut? Try Flow-Based Work Instead!](https://medium.com/@dchucks/is-your-agile-stuck-in-a-sprint-rut-try-flow-based-work-instead-7ece2611d33f?source=rss-85fec222135e------2)
-- [Can Agile Fly on Fixed Wings? Taming the Fixed-Price Project Beast](https://medium.com/@dchucks/fixed-price-agile-projects-c0f2c942af1b?source=rss-85fec222135e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support
