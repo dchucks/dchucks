@@ -39,11 +39,11 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
-- [Four Alternative Project Management Approaches for AI/ML](https://medium.com/@dchucks/rethinking-agile-for-ai-ml-why-ai-ml-projects-need-a-tailored-approach-fcbc2e44fdd0?source=rss-85fec222135e------2)
-- [Swarm Intelligence: How Agile Teams Conquer Challenges Together](https://medium.com/@dchucks/swarm-intelligence-how-agile-teams-conquer-challenges-together-51f2a5b10d2a?source=rss-85fec222135e------2)
-- [How Agile practitioners can make GenAI their powerful ally?](https://medium.com/@dchucks/how-agile-practitioners-can-make-genai-their-powerful-ally-c7a58154df28?source=rss-85fec222135e------2)
-- [Master these 4 Agile Backlog Prioritization and Ordering techniques for Value Delivery](https://medium.com/@dchucks/master-these-4-agile-backlog-prioritization-and-ordering-techniques-for-value-delivery-a4885828325b?source=rss-85fec222135e------2)
-- [To Burnup or Burndown : That’s the question!](https://medium.com/@dchucks/to-burnup-or-burndown-thats-the-question-f768bd082d25?source=rss-85fec222135e------2)
+- [Four Alternative Project Management Approaches for AI/ML](https://medium.com/the-agile-chronicles/rethinking-agile-for-ai-ml-why-ai-ml-projects-need-a-tailored-approach-fcbc2e44fdd0?source=rss-85fec222135e------2)
+- [Swarm Intelligence: How Agile Teams Conquer Challenges Together](https://medium.com/the-agile-chronicles/swarm-intelligence-how-agile-teams-conquer-challenges-together-51f2a5b10d2a?source=rss-85fec222135e------2)
+- [How Agile practitioners can make GenAI their powerful ally?](https://medium.com/the-agile-chronicles/how-agile-practitioners-can-make-genai-their-powerful-ally-c7a58154df28?source=rss-85fec222135e------2)
+- [Master these 4 Agile Backlog Prioritization and Ordering techniques for Value Delivery](https://medium.com/the-agile-chronicles/master-these-4-agile-backlog-prioritization-and-ordering-techniques-for-value-delivery-a4885828325b?source=rss-85fec222135e------2)
+- [To Burnup or Burndown : That’s the question!](https://medium.com/the-agile-chronicles/to-burnup-or-burndown-thats-the-question-f768bd082d25?source=rss-85fec222135e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support
