@@ -7,7 +7,7 @@ I'm a Technical Program Manager at Amazon with 22+ years experience in Software 
 
 I have been one of the earfliest of Hindi bloggers from India and dablle in content creation  since 2002. I used to blog at [Null Pointer](http://nullpointer.debashish.com) in English and at *[Nuktachini](http://nuktachini.debashish.com)* in Hindi, these are seldom updated now. I founded India's first (and only) desi blog awards [Indibloggies](http://indibloggies.blogspot.com) and the first Hindi blog aggregator *[Chittha Vishwa](http://www.myjavaserver.com/~hindi/)*, Hindi webzines *[Nirantar](http://nirantar.org)* and *[Samayiki](http://samayiki.com)*, and Hindi podcast [Podbharati](http://podbharati.com). I have contributed to the localization of multiple pieces of software. I have been instrumental in beginning initiatives like *[Buno Kahani](http://bunokahani.blogspot.com)*, a group blog where various authors literally weave a story and *[Anugunj](https://web.archive.org/web/20080509161849/http://akshargram.com/sarvagya/index.php/Anugunj)*, a web event hosted in turn by Hindi bloggers where various bloggers write on a given topic. 
 
-I presently publish the newsletters [Podcast Round-up](http://parikrama.substack.com) (in Hindi) and [The Agile Chronicles](http://agilechronicles.substack.com). [Click here](http://nullpointer.debashish.com/about/about-the-author) if you are interested to know more about me.
+I presently publish the newsletters [Podcast Round-up](http://parikrama.substack.com) (in Hindi) and [The Agile Chronicles](https://medium.com/the-agile-chronicles). [Click here](http://nullpointer.debashish.com/about/about-the-author) if you are interested to know more about me.
 
 ## Ask me anything
 📣 Happy to share that I am now at [Topmate](https://topmate.io/debashishc), where I propose to offer mentorship, and share whatever I have learnt in my life so far. In turn, I gain to learn from others. Let's help each other grow! 💪🌟 Please go ahead, and [block a suitable time-slot](https://topmate.io/debashishc).   
@@ -15,7 +15,7 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 ## Me elsewhere 📬
 <p align='center'>
   <a href="https://dev.to/dchucks"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/dev.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/podbharati"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/debashishc/"><img height="30" src="https://github.com/dchucks/dchucks/blob/d64b0c234cd064fd12a1b0eaa22b4040c099bd18/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/agilechronicles" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agilechronicles" height="30"/></a>&nbsp;&nbsp;
   <a href="https://medium.com/@dchucks" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dchucks" height="30" /></a>&nbsp;&nbsp;
