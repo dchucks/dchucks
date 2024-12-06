@@ -39,11 +39,11 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [DoD, DoR and Acceptance Criteria are not the same darn thing](https://medium.com/the-agile-chronicles/dod-dor-and-acceptance-criteria-and-not-the-same-darn-thing-eec5ca260d48?source=rss-85fec222135e------2)
 - [The Efficiency Trap Nobody Warns You About](https://medium.com/@dchucks/the-efficiency-trap-nobody-warns-you-about-d6c5758c4c13?source=rss-85fec222135e------2)
 - [The Art of Balancing Dreams and Dollars: A Sabbatical Story](https://medium.com/the-agile-chronicles/illiquid-careers-passion-vs-pragmatism-da1926aa4ad6?source=rss-85fec222135e------2)
 - [The Agile Chronicles has moved from Substack to Medium](https://medium.com/@dchucks/the-agile-chronicles-has-moved-from-substack-to-medium-8e4a31318322?source=rss-85fec222135e------2)
 - [Four Alternative Project Management Approaches for AI/ML](https://medium.com/the-agile-chronicles/rethinking-agile-for-ai-ml-why-ai-ml-projects-need-a-tailored-approach-fcbc2e44fdd0?source=rss-85fec222135e------2)
-- [Swarm Intelligence: How Agile Teams Conquer Challenges Together](https://medium.com/the-agile-chronicles/swarm-intelligence-how-agile-teams-conquer-challenges-together-51f2a5b10d2a?source=rss-85fec222135e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support
