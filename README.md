@@ -39,11 +39,11 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [AI: The Tool Everyone Loves to Hate — But Can’t Ignore](https://medium.com/@dchucks/ai-the-tool-everyone-loves-to-hate-but-cant-ignore-725c98f347e1?source=rss-85fec222135e------2)
 - [A 2024 recap for “The Agile Chronicles”](https://medium.com/@dchucks/a-2024-recap-for-the-agile-chronicles-0290de657ebd?source=rss-85fec222135e------2)
 - [Are you a “value for money” consumer,  or a “price defines quality” one?](https://medium.com/@dchucks/the-price-is-right-or-is-it-my-2025-shopping-resolution-3f988daaf27f?source=rss-85fec222135e------2)
 - [From Concept to Launch: 9 Product Management Frameworks for Creating Winning Products](https://medium.com/the-agile-chronicles/key-product-management-frameworks-for-creating-winning-products-9d515dae23a?source=rss-85fec222135e------2)
 - [Definition of Done, Definition of Ready and Acceptance Criteria are not the same darn thing](https://medium.com/the-agile-chronicles/dod-dor-and-acceptance-criteria-and-not-the-same-darn-thing-eec5ca260d48?source=rss-85fec222135e------2)
-- [The Efficiency Trap Nobody Warns You About](https://medium.com/@dchucks/the-efficiency-trap-nobody-warns-you-about-d6c5758c4c13?source=rss-85fec222135e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support
