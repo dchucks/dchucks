@@ -39,11 +39,11 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Efficiency: Agile’s Challenge in the Age of AI](https://medium.com/the-agile-chronicles/beyond-efficiency-agiles-challenge-in-the-age-of-ai-d3ea45917fa4?source=rss-85fec222135e------2)
 - [From Output to Outcomes: The Power of Purpose-Driven Sprint Planning](https://medium.com/the-agile-chronicles/from-output-to-outcomes-dc0d72644447?source=rss-85fec222135e------2)
 - [Fevicol’s Hyperlocal Marketing: The Ultimate Bond Between Trust &amp; Sales](https://medium.com/the-agile-chronicles/fevicols-hyperlocal-marketing-the-ultimate-bond-between-trust-sales-049232137bba?source=rss-85fec222135e------2)
 - [Your Sprint Reviews Are Missing This Powerful Technique](https://medium.com/the-agile-chronicles/socratic-thinking-in-agile-ceremonies-58575adcd5e5?source=rss-85fec222135e------2)
 - [AI: The Tool Everyone Loves to Hate — But Can’t Ignore](https://medium.com/@dchucks/ai-the-tool-everyone-loves-to-hate-but-cant-ignore-725c98f347e1?source=rss-85fec222135e------2)
-- [A 2024 recap for “The Agile Chronicles”](https://medium.com/the-agile-chronicles/a-2024-recap-for-the-agile-chronicles-0290de657ebd?source=rss-85fec222135e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support
