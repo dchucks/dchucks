@@ -39,7 +39,7 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
-- [A survey of Email Newsletter Subscribers](https://medium.com/@dchucks/a-survey-of-email-newsletter-subscribers-f060d1334518?source=rss-85fec222135e------2)
+- [How modern readers handle content overload](https://medium.com/@dchucks/a-survey-of-email-newsletter-subscribers-f060d1334518?source=rss-85fec222135e------2)
 - [Keeping Track of Your Impact: A Lesson I Learned Late](https://medium.com/@dchucks/keeping-track-of-your-impact-496668518e1b?source=rss-85fec222135e------2)
 - [Beyond Efficiency: Agile’s Challenge in the Age of AI](https://medium.com/the-agile-chronicles/beyond-efficiency-agiles-challenge-in-the-age-of-ai-d3ea45917fa4?source=rss-85fec222135e------2)
 - [From Output to Outcomes: The Power of Purpose-Driven Sprint Planning](https://medium.com/the-agile-chronicles/from-output-to-outcomes-dc0d72644447?source=rss-85fec222135e------2)
