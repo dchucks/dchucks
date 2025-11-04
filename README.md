@@ -39,11 +39,11 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Resume Keeps Disappearing Into the Black Hole &lpar;And How to Fix It&rpar;](https://medium.com/@dchucks/why-your-resume-keeps-disappearing-into-the-black-hole-and-how-to-fix-it-c07a34a9587f?source=rss-85fec222135e------2)
 - [The Theseus Lens for Agile: How teams can retain their soul during big changes](https://medium.com/the-agile-chronicles/the-theseus-lens-for-agile-how-teams-can-retain-their-soul-during-big-changes-42d5932726c0?source=rss-85fec222135e------2)
 - [How modern readers handle content overload](https://medium.com/@dchucks/a-survey-of-email-newsletter-subscribers-f060d1334518?source=rss-85fec222135e------2)
 - [Running Out of Stories for Behavioral Interviews? This Simple Trick Works Wonders!](https://medium.com/the-agile-chronicles/keeping-track-of-your-impact-496668518e1b?source=rss-85fec222135e------2)
 - [Beyond Efficiency: Agile’s Challenge in the Age of AI](https://medium.com/the-agile-chronicles/beyond-efficiency-agiles-challenge-in-the-age-of-ai-d3ea45917fa4?source=rss-85fec222135e------2)
-- [From Output to Outcomes: The Power of Purpose-Driven Sprint Planning](https://medium.com/the-agile-chronicles/from-output-to-outcomes-dc0d72644447?source=rss-85fec222135e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support
