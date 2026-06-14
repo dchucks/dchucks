@@ -39,11 +39,11 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Your Scrum Team Shipping Junk? 5 Ways the Curator Mindset Saves Your Product Strategy](https://medium.com/the-agile-chronicles/is-your-scrum-team-shipping-junk-5-ways-the-curator-mindset-saves-your-product-strategy-15972a8f2389?source=rss-85fec222135e------2)
 - [The Blatant Reason Your Project Estimates Are Always Lying To You](https://medium.com/the-agile-chronicles/the-blatant-reason-your-project-estimates-are-always-lying-to-you-2c8f396eb1b6?source=rss-85fec222135e------2)
 - [The “Third Question” Hack](https://medium.com/the-agile-chronicles/the-third-question-hack-6cd6fd4a1b87?source=rss-85fec222135e------2)
 - [Apple TV’s Pluribus and the terrifying rise of the sycophantic AI](https://medium.com/@dchucks/apple-tvs-pluribus-and-the-terrifying-rise-of-the-sycophantic-ai-66e65af3fe8a?source=rss-85fec222135e------2)
 - [Why Agile Still Confuses So Many Teams](https://medium.com/the-agile-chronicles/why-agile-still-confuses-so-many-teams-3d7712332fb4?source=rss-85fec222135e------2)
-- [Why Your Resume Keeps Disappearing Into the Black Hole &lpar;And How to Fix It&rpar;](https://medium.com/@dchucks/why-your-resume-keeps-disappearing-into-the-black-hole-and-how-to-fix-it-c07a34a9587f?source=rss-85fec222135e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support
