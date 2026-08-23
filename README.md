@@ -3,13 +3,13 @@
 ![Banner Image](https://github.com/dchucks/dchucks/blob/995ee9393ce05198191a18187fb64d2402075d92/icons/banner-1.png)
 
 ## About Me 🚀
-I'm a Technical Program Manager at Amazon with 22+ years experience in Software Development, Project/Program Management, Agile Coaching/Management and Product development. I began my career as a Java developer, dabbled in all areas of software development using Core Java, JSP/Servlets, J2ME, Swing, EJB 2.0/3.0, Spring Boot etc. I earned the SCJP and SCWCD certifications way back then. Off late I have not been in core programming roles, but I love learning new skills and trying out new tech. I current hold the Certified Scrum Master, SAFe Agilist, Profesional Product Owner, PMP, ITIL, AWS Cloud Practitioner and AWS Certifified Solutions Architect Associate certifications. I also completed a [Professional Certificate Program in Product Management](https://iimkozhikode.emeritus.org/iimk-professional-certificate-programme-in-product-management) from [IIM Kozhikode](https://www.iimk.ac.in/) and am a [Certified Product Manager](https://productschool.com/product-manager-certification) from the [Product School](https://productschool.com/).
+I'm a Technical Program Manager with 22+ years experience in Software Development, Project/Program Management, Agile Coaching/Management and Product development. I began my career as a Java developer, dabbled in all areas of software development using Core Java, JSP/Servlets, J2ME, Swing, EJB 2.0/3.0, Spring Boot etc. I earned the SCJP and SCWCD certifications way back then. Off late I have not been in core programming roles, but I love learning new skills and trying out new tech. I current hold the Certified Scrum Master (CSM), SAFe Agilist, Profesional Product Owner (PSPO-I), PMP, ITIL, AWS Cloud Practitioner ~~and AWS Certifified Solutions Architect Associate~~ certifications. I did a [Professional Certificate Program in Product Management](https://iimkozhikode.emeritus.org/iimk-professional-certificate-programme-in-product-management) from [IIM Kozhikode](https://www.iimk.ac.in/) and am a [Certified Product Manager](https://productschool.com/product-manager-certification) from the [Product School](https://productschool.com/).
 
-I have been one of the earfliest of Hindi bloggers from India and dablle in content creation  since 2002. I used to blog at [Null Pointer](http://nullpointer.debashish.com) in English and at *[Nuktachini](http://nuktachini.debashish.com)* in Hindi, these are seldom updated now. I founded India's first (and only) desi blog awards [Indibloggies](http://indibloggies.blogspot.com) and the first Hindi blog aggregator *[Chittha Vishwa](http://www.myjavaserver.com/~hindi/)*, Hindi webzines *[Nirantar](http://nirantar.org)* and *[Samayiki](http://samayiki.com)*, and Hindi podcast [Podbharati](http://podbharati.com). I have contributed to the localization of multiple pieces of software. I have been instrumental in beginning initiatives like *[Buno Kahani](http://bunokahani.blogspot.com)*, a group blog where various authors literally weave a story and *[Anugunj](https://web.archive.org/web/20080509161849/http://akshargram.com/sarvagya/index.php/Anugunj)*, a web event hosted in turn by Hindi bloggers where various bloggers write on a given topic. 
+I have been one of the earfliest of Hindi bloggers from India and have been creating content since 2002. I used to blog at [Null Pointer](http://nullpointer.debashish.com) in English and at *[Nuktachini](http://nuktachini.debashish.com)* in Hindi (infrequently updated now). I founded India's first (and only) desi blog awards [Indibloggies](http://indibloggies.blogspot.com) and the first Hindi blog aggregator *[Chittha Vishwa](http://www.myjavaserver.com/~hindi/)*, Hindi webzines *[Nirantar](http://nirantar.org)* and *[Samayiki](http://samayiki.com)*, and Hindi podcast [Podbharati](http://podbharati.com). I have contributed to the localization of multiple pieces of software. I have been instrumental in beginning initiatives like *[Buno Kahani](http://bunokahani.blogspot.com)*, a group blog where various authors literally weave a story and *[Anugunj](https://web.archive.org/web/20080509161849/http://akshargram.com/sarvagya/index.php/Anugunj)*, a web event hosted in turn by Hindi bloggers where various bloggers write on a given topic. 
 
-I publish the newsletters [Podcast Round-up](http://parikrama.substack.com) (in Hindi) and [The Agile Chronicles](https://medium.com/the-agile-chronicles). [Click here](http://www.debashish.com) if you are interested to know more about me.
+I publish the newsletters [Podcast Round-up](http://parikrama.substack.com) (in Hindi) and [The Agile Chronicles](https://medium.com/the-agile-chronicles). 👉 [Click here](http://www.debashish.com) if you are interested to know more about me.
 
-## Ask me anything
+## Can I help you?
 📣 Happy to share that I am now at [Topmate](https://topmate.io/debashishc), where I propose to offer mentorship, and share whatever I have learnt in my life so far. In turn, I gain to learn from others. Let's help each other grow! 💪🌟 Please go ahead, and [block a suitable time-slot](https://topmate.io/debashishc).   
 
 ## Me elsewhere 📬
@@ -32,10 +32,7 @@ I publish the newsletters [Podcast Round-up](http://parikrama.substack.com) (in 
 - Recently completed: My new Book: **[Scrum Product Owner Certification Study Guide](https://scrum-product-owner-study-guide.netlify.app/)**
 - Recently completed: Mock Tests for [PSPO-I certification](https://www.udemy.com/course/product-owner-certification-mock-tests/)
 - ⚡Fun fact: I do voice-overs as a hobby. If you have a freelance gig, I am on Fiverr.
-<!--
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
--->
+- 📫 How to reach me: [use this form please](https://www.debashish.com/contact)
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
