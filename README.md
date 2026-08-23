@@ -25,16 +25,16 @@ I presently publish the newsletters [Podcast Round-up](http://parikrama.substack
 
 ## Languages and Tools
 <p align="left"> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dchucks&show_icons=true&locale=en&layout=compact" alt="dchucks" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dchucks&show_icons=true&locale=en&layout=compact" alt="dchucks" /></p> -->
 
 ## What's keeping me busy? 
-- 🌱 Preparing for: [AWS Certifified Solutions Architect Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
-- 🔭 Working on: A Udemy Mock Exam for [PSPO-I certification](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
-- ⚡ Fun fact: I do voice-overs as a hobby. If you have a freelance gig, I am on Fiverr.
+- Working on publishing **[Buno Kahani](https://www.debashish.com/creations/bunokahani/)** collector's edition.
+- Recently completed: My new Book: **[Scrum Product Owner Certification Study Guide](https://scrum-product-owner-study-guide.netlify.app/)**
+- Recently completed: Mock Tests for [PSPO-I certification](https://www.udemy.com/course/product-owner-certification-mock-tests/)
+- ⚡Fun fact: I do voice-overs as a hobby. If you have a freelance gig, I am on Fiverr.
 <!--
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **[your email address or other contact information]**
-
 -->
 
 ## My latest posts
